@@ -1,0 +1,18 @@
+# Secrets & Environment Variables (CRITICAL)
+.env
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Local State & Generated Files
+seen_events.json
+dashboard.html
+notes.txt
+action_items.md
+
+# Python Cache & macOS System Files
+__pycache__/
+*.py[cod]
+.DS_Store
